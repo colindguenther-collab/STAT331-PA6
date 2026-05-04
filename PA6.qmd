@@ -1,10 +1,11 @@
 ---
 title: "Practice Activity 6"
+author: Jake, Colin, Kip
 format: html
 editor: visual
 embed-resources: true
 ---
+
 ```{r}
 1 + 1
 ```
-
