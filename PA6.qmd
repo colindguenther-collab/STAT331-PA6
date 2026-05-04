@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: Jake, Colin, Kip
+author: Jake Keller, Colin Guenther, Kip Stackle
 format: html
 editor: visual
 embed-resources: true
